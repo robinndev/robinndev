@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Oii, eu sou o **Robson da Silva*, sou de Recife, Pernambuco, sou um desenvolverdor front-end, amante de tecnologia e tudo que orbita nesse universo incrivelmente fascinante, sou um estudante da **Labenu**, um curso livre de web development, estou me aprofundando cada vez mais nos conhecimentos sobre desenvolvimento afim de um dia fazer parte de projetos **realmente grandes para a humanidade**
+Oii, eu sou o **Robson da Silva**, sou de Recife, Pernambuco, sou um desenvolverdor front-end, amante de tecnologia e tudo que orbita nesse universo incrivelmente fascinante, sou um estudante da **Labenu**, um curso livre de web development, estou me aprofundando cada vez mais nos conhecimentos sobre desenvolvimento afim de um dia fazer parte de projetos **realmente grandes para a humanidade**
 
 **Meus interesses pessoais:**
 
