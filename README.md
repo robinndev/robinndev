@@ -17,8 +17,8 @@ Oii, eu sou o **Robson da Silva**, sou de Recife, Pernambuco, sou um desenvolver
 
   <img align="right" alt="GIF" src="https://i.ibb.co/7RQWwkR/tumblr-f5e3e121053ba8d807cc03a13ebfd1b8-23e814a1-1280.gif" width="400px" />
 
-- 👨🏽‍💻 Estou iniciando os estudos em Back-End **Node.js**;
-- 🤔 Estou iniciando os estudos em **TypeScript**; 
+- 👨🏽‍💻 Estou iniciando os estudos em Front End Mobile com **Flutter**;
+- 🤔 Estou iniciando os estudos em **Dart**; 
 - 💛 Amo codar, escrever e jogar jogos competitivos;
 - 📝 A todo momento buscando conhecimento para evoluir minha carreira como desenvolvedor;
 - 📫 Envie um email para robson_dev@hotmail.com para me encontrar.
