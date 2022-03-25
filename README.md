@@ -1,10 +1,10 @@
-<a href="https://github.com/robinndev" target="_blank">
+<a href="https://github.com/robinndev" target="blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a> 
-<a href="https://www.instagram.com/by_robinn/" target="_blank">
+<a href="https://www.instagram.com/by_robinn/" target="blank">
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a> 
-<a href="https://www.linkedin.com/in/robson-silva-544830209/" target="_blank">
+<a href="https://www.linkedin.com/in/robson-silva-544830209/" target="blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
