@@ -1,10 +1,10 @@
-<a href="https://github.com/robinndev" target="blank">
+<a href="https://github.com/robinndev" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a> 
-<a href="https://www.instagram.com/by_robinn/" target="blank">
+<a href="https://www.instagram.com/by_robinn/" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a> 
-<a href="https://www.linkedin.com/in/robson-silva-544830209/" target="blank">
+<a href="https://www.linkedin.com/in/robson-silva-544830209/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
@@ -17,9 +17,9 @@ Oii, eu sou o **Robson da Silva**, sou de Recife, Pernambuco, sou um desenvolver
 
   <img align="right" alt="GIF" src="https://i.ibb.co/7RQWwkR/tumblr-f5e3e121053ba8d807cc03a13ebfd1b8-23e814a1-1280.gif" width="250px" />
 
-- 👨🏽‍💻 Estou iniciando os estudos em Front End Mobile com **Flutter**;
-- 🤔 Estou iniciando os estudos em **Dart**; 
-- 💛 Amo codar, escrever e jogar jogos competitivos;
+- 👨🏽‍💻 Estou iniciando os estudos em Front End Mobile com **React Native**;
+- 🤔 Estou iniciando os estudos em **Typescript**; 
+- 💛 Amo codar, estudar e jogar jogos competitivos;
 - 📝 A todo momento buscando conhecimento para evoluir minha carreira como desenvolvedor;
 - 📫 Envie um email para robson_dev@hotmail.com para me encontrar.
 
