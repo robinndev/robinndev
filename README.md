@@ -50,6 +50,6 @@ Oii, eu sou o **Robson da Silva**, sou de Recife, Pernambuco, sou um desenvolver
 
 <!-- <br /><br /><br /><br /><br /> -->
 
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinndev&layout=compact&langs_count=7&theme=dracula"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinndev&layout=compact&langs_count=7&theme=dracula"/>
   
   <div/>
