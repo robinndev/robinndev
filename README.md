@@ -15,7 +15,7 @@ Oii, eu sou o **Robson da Silva**, sou de Recife, Pernambuco, sou um desenvolver
 
 **Meus interesses pessoais:**
 
-  <img align="right" alt="GIF" src="https://i.ibb.co/7RQWwkR/tumblr-f5e3e121053ba8d807cc03a13ebfd1b8-23e814a1-1280.gif" width="50px" />
+  <img align="right" alt="GIF" src="https://i.ibb.co/7RQWwkR/tumblr-f5e3e121053ba8d807cc03a13ebfd1b8-23e814a1-1280.gif" width="20px" />
 
 - 👨🏽‍💻 Estou iniciando os estudos em Front End Mobile com **React Native**;
 - 🤔 Estou iniciando os estudos em **Typescript**; 
