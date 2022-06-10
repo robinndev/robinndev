@@ -44,12 +44,12 @@ Oii, eu sou o **Robson da Silva**, sou de Recife, Pernambuco, sou um desenvolver
 
 <div>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=robinndev&theme=tokyonight" alt="robinndev" width="100" height="200em"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=robinndev&theme=tokyonight" alt="robinndev" width="500" height="200em"/>
 </p>
 
 
 <!-- <br /><br /><br /><br /><br /> -->
 
-<img height="200em" width="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinndev&layout=compact&langs_count=7&theme=dracula"/>
+<img height="200em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinndev&layout=compact&langs_count=7&theme=dracula"/>
   
   <div/>
