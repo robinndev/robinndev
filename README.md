@@ -37,8 +37,8 @@ Oii, eu sou o **Robson da Silva**, sou de Recife, Pernambuco, sou um desenvolver
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="git" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEAmAZJkl49wqGmS0dWhlGo-CYpaAT-g_WCA&usqp=CAU" alt="git" width="40" height="40"/>
+  <img src="http://www.appcoda.com/wp-content/uploads/2015/04/react-native.png" alt="git" width="40" height="40"/>
  
-  
 </p>
 <br /><br />
 
