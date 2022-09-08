@@ -1,55 +1,31 @@
-<a href="https://github.com/robinndev" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a> 
-<a href="https://www.instagram.com/by_robinn/" target="_blank">
-  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a> 
-<a href="https://www.linkedin.com/in/robson-silva-544830209/" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+### Hello I'm Calebe Souza Guimarães
+<hr>
+
+- 🔭 Interested in working as a front-end developer.
+- 🌱 I'm currently learning about (react, next, redux, tailwind, typescript)
+- 😄 Pronouns: he/his
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=calebesg&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+
+<!-- Tecnologis que domino -->
+
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,redux,tailwind,sass,nodejs,express,mongo" />
 </a>
 
-<br />
-<br />
+<br>
+<br>
 
-Oii, eu sou o **Robson da Silva**, sou de Recife, Pernambuco, sou um desenvolverdor front-end, amante de tecnologia e tudo que orbita nesse universo incrivelmente fascinante, sou um estudante da **Labenu**, um curso livre de web development, estou me aprofundando cada vez mais nos conhecimentos sobre desenvolvimento afim de um dia fazer parte de projetos **realmente grandes para a humanidade**
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 
-**Meus interesses pessoais:**
+<!-- Endereços para contato -->
 
-<!--   <img align="right" alt="GIF" src="https://i.ibb.co/7RQWwkR/tumblr-f5e3e121053ba8d807cc03a13ebfd1b8-23e814a1-1280.gif" width="20px" /> -->
+<div> 
+<a href="https://www.linkedin.com/in/calebesg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.facebook.com/profile.php?id=100077443783376" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:calebeguimaraes10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-db4a39?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-- 👨🏽‍💻 Estou iniciando os estudos em Front End Mobile com **React Native**;
-- 🤔 Estou iniciando os estudos em **Typescript**; 
-- 💛 Amo codar, estudar e jogar jogos competitivos;
-- 📝 A todo momento buscando conhecimento para evoluir minha carreira como desenvolvedor;
-- 📫 Envie um email para robson_dev@hotmail.com para me encontrar.
-
-
-**Linguagens e ferramentas:**  
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEAmAZJkl49wqGmS0dWhlGo-CYpaAT-g_WCA&usqp=CAU" alt="git" width="40" height="40"/>
-  <img src="http://www.appcoda.com/wp-content/uploads/2015/04/react-native.png" alt="git" width="50" height="40"/>
- 
-</p>
-<br /><br />
-
-<div>
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=robinndev&theme=tokyonight" alt="robinndev" height="170em"/>
-</p>
-
-
-<!-- <br /><br /><br /><br /><br /> -->
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinndev&layout=compact&langs_count=7&theme=dracula"/>
-  
-  <div/>
