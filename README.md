@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=robinndev=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=calebsg=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
 
 <!-- Tecnologis que domino -->
 
@@ -25,7 +25,6 @@
 
 <div> 
 <a href="https://www.linkedin.com/in/robinndev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.facebook.com/profile.php?id=100077443783376" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href = "robson.developer@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-db4a39?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
