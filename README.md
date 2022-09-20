@@ -3,7 +3,7 @@
 
 - 🔭 Trabalho como Front-end Developer na Gateware.
 - 🌱 Estou atualmente aprendendo Flutter/Dart
-- 😄 Tenho conhecimento amplo em React | Vue/Vuex | ContextAPI
+- 😄 Tenho conhecimento amplo em React | Vue/Vuex | Dart/Flutter
 
 <br>
 
@@ -24,7 +24,7 @@
 <!-- Endereços para contato -->
 
 <div> 
-<a href="https://www.linkedin.com/in/robinndev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="[https://www.linkedin.com/in/robinndev](https://www.linkedin.com/in/robinndev/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/profile.php?id=100077443783376" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href = "mailto:calebeguimaraes10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-db4a39?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
