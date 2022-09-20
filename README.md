@@ -13,7 +13,7 @@
 
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,linux,git,vscode,javascript,typescript,css,html,react,next,redux,tailwind,sass" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,linux,git,vscode,javascript,typescript,css,html,react,tailwind,sass,bootstrap" />
 </a>
 
 <br>
