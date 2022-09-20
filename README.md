@@ -1,9 +1,9 @@
-### Hello I'm Calebe Souza Guimarães
+### Hello I'm Robson da Silva
 <hr>
 
-- 🔭 Interested in working as a front-end developer.
-- 🌱 I'm currently learning about (react, next, redux, tailwind, typescript)
-- 😄 Pronouns: he/his
+- 🔭 Trabalho como Front-end Developer na Gateware.
+- 🌱 Estou atualmente aprendendo Flutter/Dart
+- 😄 Tenho conhecimento amplo em React | Vue/Vuex | ContextAPI
 
 <br>
 
@@ -13,7 +13,7 @@
 
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,redux,tailwind,sass,nodejs,express,mongo" />
+  <img src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,vue,redux,tailwind,sass" />
 </a>
 
 <br>
