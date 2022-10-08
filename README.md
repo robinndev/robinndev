@@ -19,7 +19,7 @@
 <br>
 <br>
 
-<img src="./profile-3d-contrib/profile-light-rainbow.svg" />
+<img src="./profile-3d-contrib/profile-white-rainbow.svg" />
 
 <!-- Endereços para contato -->
 
