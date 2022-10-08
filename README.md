@@ -19,7 +19,7 @@
 <br>
 <br>
 
-<img src="./profile-3d-contrib/profile-night-gitblock.svg" />
+<img src="./profile-3d-contrib/profile-gitblock.svg" />
 
 <!-- Endereços para contato -->
 
