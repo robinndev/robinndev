@@ -19,7 +19,7 @@
 <br>
 <br>
 
-<img src="./profile-3d-contrib/profile-night-green.svg" />
+<img src="./profile-3d-contrib/profile-night-block.svg" />
 
 <!-- Endereços para contato -->
 
