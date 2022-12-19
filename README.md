@@ -19,6 +19,8 @@
 <br>
 <br>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" align="center" width="35"><b> GitHub Stats</b>
+<br><br>
 <img src="./profile-3d-contrib/profile-night-green.svg" />
 
 <!-- Endereços para contato -->
