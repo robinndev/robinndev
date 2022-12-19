@@ -13,19 +13,14 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align="center" width ="25"><b> Tech Stack</b>
 <br>
-
-
-<br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vue,nuxt,react,flutter,dart,javascript,typescript,linux,git,vscode,css,html,tailwind,sass,bootstrap" />
 </a>
-
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" align="center" width="35"><b> GitHub Stats</b>
-<br><br>
-<img src="./profile-3d-contrib/profile-night-green.svg" />
 <br>
+<img src="./profile-3d-contrib/profile-night-green.svg" />
 <br>
 
 
