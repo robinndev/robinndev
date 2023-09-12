@@ -1,9 +1,9 @@
 ### Hello I'm Robson da Silva
 <hr>
 
-- 🔭 Trabalho como Front-end Developer na Gateware.
+- 🔭 Trabalho como Tech Lead Front-End na Dopster.
 - 🌱 Estou atualmente aprendendo Flutter/Dart
-- 😄 Tenho conhecimento amplo em React | Vue/Vuex | Dart/Flutter
+- 😄 Tenho conhecimento amplo em React | Vue/Vuex | Dart/Flutter e React Native
 
 <br>
 
